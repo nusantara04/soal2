@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tagihan Warnet</string>
+    <string-array name="daftar_kecepatan">
+        <item name="sup" type="string">Super</item>
+        <item name="med" type="string">Medium</item>
+        <item name="low" type="string">Low</item>
+    </string-array>
+</resources>
